@@ -6,6 +6,7 @@
 
 ## 2021
 
+- [A Conversation About Fable](https://www.youtube.com/watch?v=EHk7xuaMVhM)
 - [What's New in F# 6](https://www.youtube.com/watch?v=jOrgDoMuFog)
 
 ## 2020
