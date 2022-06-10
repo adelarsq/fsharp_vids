@@ -1,5 +1,9 @@
 # Videos about F#
 
+## Channels
+
+- [Fast F#](https://www.youtube.com/user/Wallhoode)
+
 ## 2022
 
 - [F# - Program argument från kommandoraden och input via tangentbordet](https://www.youtube.com/watch?v=gIEdNgsAlYA)
