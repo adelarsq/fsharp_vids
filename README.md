@@ -15,6 +15,7 @@
 - [What's New in F# 6](https://www.youtube.com/watch?v=jOrgDoMuFog)
 - [List - F# for Beginners - 12 videos](https://www.youtube.com/watch?v=yGzu0iDuMNQ&list=PLdo4fOcmZ0oUFghYOp89baYFBTGxUkC7Z)
 - [F# for Scheduling Jobs to Maximize Efficiency](https://www.youtube.com/watch?v=2n7nAyoEzGs)
+- [Modern Web Applications with SAFE Stack](https://www.youtube.com/watch?v=9pzgKpPTssM)
 
 ## 2020
 
