@@ -7,6 +7,7 @@
 ## 2022
 
 - [F# - Program argument från kommandoraden och input via tangentbordet](https://www.youtube.com/watch?v=gIEdNgsAlYA)
+- [Beyond: Crossing the Platform Boundaries with F# & Fable by Alfonso Garcia-Caro #FnConf 2022](https://www.youtube.com/watch?v=OuAsNZAuh1M)
 
 ## 2021
 
