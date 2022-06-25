@@ -22,3 +22,4 @@
 ## 2017
 
 - [F# for C# programmers - Scott Wlaschin](https://www.youtube.com/watch?v=KPa8Yw_Navk)
+- [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
