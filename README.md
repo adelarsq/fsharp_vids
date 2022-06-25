@@ -19,6 +19,10 @@
 
 - [Resumable State Machines - F# Compiler Community Session](https://www.youtube.com/watch?v=GYi3ZMF8Pm0)
 
+## 2019
+
+- [F# Code I Love - Don Syme](https://www.youtube.com/watch?v=1AZA1zoP-II)
+
 ## 2017
 
 - [F# for C# programmers - Scott Wlaschin](https://www.youtube.com/watch?v=KPa8Yw_Navk)
