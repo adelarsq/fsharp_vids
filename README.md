@@ -1,4 +1,4 @@
-# Videos about F#
+# Videos about F# 🔷🎞️
 
 ## Channels
 
