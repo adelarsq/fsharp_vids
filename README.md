@@ -15,10 +15,10 @@
 
 - [A Conversation About Fable](https://www.youtube.com/watch?v=EHk7xuaMVhM)
 - [What's New in F# 6](https://www.youtube.com/watch?v=jOrgDoMuFog)
-
 - [F# for Scheduling Jobs to Maximize Efficiency](https://www.youtube.com/watch?v=2n7nAyoEzGs)
 - [Modern Web Applications with SAFE Stack](https://www.youtube.com/watch?v=9pzgKpPTssM)
 - [F# Platform Game series in MonoGame is Resurrected with new F#6 features](https://www.youtube.com/watch?v=upJ3wFXUnkw)
+- [Why Every Day as a Developer Would Be Easier with F# by Urs Enzler](https://www.youtube.com/watch?v=q3Ies_XTo_s)
 
 **Lists:**
 
