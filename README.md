@@ -5,6 +5,7 @@
 - [dotNET](https://www.youtube.com/c/dotNET)
 - [Fast F#](https://www.youtube.com/user/Wallhoode)
 - [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A)
+- [Fun Fan Fsharp](https://www.youtube.com/channel/UCzfhtizGZluixyun60wPnuA)
 
 ## 2022
 
