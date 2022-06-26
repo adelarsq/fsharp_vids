@@ -31,6 +31,7 @@
 ## 2019
 
 - [F# Code I Love by Don Syme](https://www.youtube.com/watch?v=1AZA1zoP-II)
+- [Introduction to the Elm Architecture with Elmish in F# and Fable](https://www.youtube.com/watch?v=3Qk4bWs7vrs)
 
 ## 2017
 
