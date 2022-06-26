@@ -28,6 +28,7 @@
 ## 2020
 
 - [Resumable State Machines - F# Compiler Community Session](https://www.youtube.com/watch?v=GYi3ZMF8Pm0)
+- [Learning F# by Designing Your Own Language by Oleksii Holub](https://www.youtube.com/watch?v=34C_7halqGw)
 
 ## 2019
 
@@ -40,3 +41,10 @@
 - [F# for C# programmers by Scott Wlaschin](https://www.youtube.com/watch?v=KPa8Yw_Navk)
 - [Functional Design Patterns by Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
 - [F# Tutorial by Derek Banas](https://www.youtube.com/watch?v=c7eNDJN758U)
+
+## 2016
+
+**Lists:**
+
+- [Introduction to Functional Programming with F# - 5 videos](https://www.youtube.com/watch?v=Teak30_pXHk&list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC)
+
