@@ -30,10 +30,10 @@
 
 ## 2019
 
-- [F# Code I Love - Don Syme](https://www.youtube.com/watch?v=1AZA1zoP-II)
+- [F# Code I Love by Don Syme](https://www.youtube.com/watch?v=1AZA1zoP-II)
 
 ## 2017
 
-- [F# for C# programmers - Scott Wlaschin](https://www.youtube.com/watch?v=KPa8Yw_Navk)
-- [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
+- [F# for C# programmers by Scott Wlaschin](https://www.youtube.com/watch?v=KPa8Yw_Navk)
+- [Functional Design Patterns by Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
 - [F# Tutorial by Derek Banas](https://www.youtube.com/watch?v=c7eNDJN758U)
