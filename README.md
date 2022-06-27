@@ -3,6 +3,7 @@
 ## Channels
 
 - [dotNET](https://www.youtube.com/c/dotNET)
+- [F# Software Foundation](https://www.youtube.com/c/fsharporg)
 - [Fast F#](https://www.youtube.com/user/Wallhoode)
 - [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A)
 - [Fun Fan Fsharp](https://www.youtube.com/channel/UCzfhtizGZluixyun60wPnuA)
