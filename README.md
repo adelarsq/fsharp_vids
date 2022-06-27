@@ -31,6 +31,7 @@
 - [F# as a Better Python by Phillip Carter](https://www.youtube.com/watch?v=_QnbV6CAWXc)
 - [Resumable State Machines - F# Compiler Community Session](https://www.youtube.com/watch?v=GYi3ZMF8Pm0)
 - [Learning F# by Designing Your Own Language by Oleksii Holub](https://www.youtube.com/watch?v=34C_7halqGw)
+- [Learn me some F# compiler by Don Syme - F# Compiler Community Session](https://www.youtube.com/watch?v=-dKf15xSWPY)
 
 ## 2019
 
