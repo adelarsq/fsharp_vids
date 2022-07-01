@@ -7,12 +7,14 @@
 - [Fast F#](https://www.youtube.com/user/Wallhoode)
 - [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A)
 - [Fun Fan Fsharp](https://www.youtube.com/channel/UCzfhtizGZluixyun60wPnuA)
+- [Developer Videos](https://www.youtube.com/channel/UCK4VZUWy1jPwMijeAeyzUcg)
 
 ## 2022
 
 - [F# - Program argument från kommandoraden och input via tangentbordet](https://www.youtube.com/watch?v=gIEdNgsAlYA)
 - [Beyond: Crossing the Platform Boundaries with F# & Fable by Alfonso Garcia-Caro #FnConf 2022](https://www.youtube.com/watch?v=OuAsNZAuh1M)
 - [Functional Patterns in FSharp](https://www.youtube.com/watch?v=XiG-uuNKzF8)
+- [Leveraging Redis Cache from F#](https://www.youtube.com/watch?v=20x1ydMIvYA)
 
 ## 2021
 
