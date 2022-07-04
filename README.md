@@ -8,6 +8,7 @@
 - [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A)
 - [Fun Fan Fsharp](https://www.youtube.com/channel/UCzfhtizGZluixyun60wPnuA)
 - [Developer Videos](https://www.youtube.com/channel/UCK4VZUWy1jPwMijeAeyzUcg)
+- [7sharp9](https://www.youtube.com/c/7sharp9b5)
 
 ## 2022
 
