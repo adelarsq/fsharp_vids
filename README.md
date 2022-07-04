@@ -15,6 +15,7 @@
 - [Beyond: Crossing the Platform Boundaries with F# & Fable by Alfonso Garcia-Caro #FnConf 2022](https://www.youtube.com/watch?v=OuAsNZAuh1M)
 - [Functional Patterns in FSharp](https://www.youtube.com/watch?v=XiG-uuNKzF8)
 - [Leveraging Redis Cache from F#](https://www.youtube.com/watch?v=20x1ydMIvYA)
+- [Using Unity With F#](https://www.youtube.com/watch?v=sK6BUkQE5U4)
 
 ## 2021
 
