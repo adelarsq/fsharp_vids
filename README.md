@@ -44,6 +44,7 @@
 - [F# Code I Love by Don Syme](https://www.youtube.com/watch?v=1AZA1zoP-II)
 - [Introduction to the Elm Architecture with Elmish in F# and Fable](https://www.youtube.com/watch?v=3Qk4bWs7vrs)
 - [Let's build a hackernews clone with React, Elmish, F# and Fable](https://www.youtube.com/watch?v=w0Am8fRQzGg)
+- [Reinventing MVC pattern for web programming with F# by Krzysztof Cieslak - FOSDEM 2019](https://www.youtube.com/watch?v=9jM8iG4CDbU)
 
 ## 2017
 
