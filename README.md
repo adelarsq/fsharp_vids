@@ -18,6 +18,7 @@
 - [Leveraging Redis Cache from F#](https://www.youtube.com/watch?v=20x1ydMIvYA)
 - [Using Unity With F#](https://www.youtube.com/watch?v=sK6BUkQE5U4)
 - [Types and Measures by Kevin Feasel](https://www.youtube.com/watch?v=Op1IXeg73Wk)
+- [Programación en F#](https://www.youtube.com/watch?v=lE2Hcuw4L1c)
 
 ## 2021
 
