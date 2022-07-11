@@ -17,6 +17,7 @@
 - [Functional Patterns in FSharp](https://www.youtube.com/watch?v=XiG-uuNKzF8)
 - [Leveraging Redis Cache from F#](https://www.youtube.com/watch?v=20x1ydMIvYA)
 - [Using Unity With F#](https://www.youtube.com/watch?v=sK6BUkQE5U4)
+- [Types and Measures by Kevin Feasel](https://www.youtube.com/watch?v=Op1IXeg73Wk)
 
 ## 2021
 
