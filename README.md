@@ -19,6 +19,11 @@
 - [Using Unity With F#](https://www.youtube.com/watch?v=sK6BUkQE5U4)
 - [Types and Measures by Kevin Feasel](https://www.youtube.com/watch?v=Op1IXeg73Wk)
 - [Programación en F#](https://www.youtube.com/watch?v=lE2Hcuw4L1c)
+- [Why F# Works in the Enterprise](https://www.youtube.com/watch?v=CHrYC3c_LC4)
+
+**Lists:**
+
+- [Fast F#: Topological Sort](https://www.youtube.com/watch?v=B2XOxXAQuF8&list=PLqWncHdBPoD5hEK31CcfmTHP-7icw2Xd0)
 
 ## 2021
 
