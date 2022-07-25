@@ -66,3 +66,7 @@
 
 - [Introduction to Functional Programming with F# - 5 videos](https://www.youtube.com/watch?v=Teak30_pXHk&list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC)
 
+## 2005
+
+- [F#: Putting the Fun into Functional Programming](https://www.youtube.com/watch?v=Wxmw2YSrcvA) [1](https://www.microsoft.com/en-us/research/video/f-putting-the-fun-into-functional-programming/)
+
