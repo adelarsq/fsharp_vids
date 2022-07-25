@@ -24,6 +24,7 @@
 **Lists:**
 
 - [Fast F#: Topological Sort](https://www.youtube.com/watch?v=B2XOxXAQuF8&list=PLqWncHdBPoD5hEK31CcfmTHP-7icw2Xd0)
+- [Real World F# Web App](https://www.youtube.com/watch?v=NuAzX_6flsI&list=PLjfDSHUGSwod1k162Ha4ZTlBStlBtg7N-)
 
 ## 2021
 
