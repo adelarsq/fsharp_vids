@@ -20,6 +20,7 @@
 - [Types and Measures by Kevin Feasel](https://www.youtube.com/watch?v=Op1IXeg73Wk)
 - [Programación en F#](https://www.youtube.com/watch?v=lE2Hcuw4L1c)
 - [Why F# Works in the Enterprise](https://www.youtube.com/watch?v=CHrYC3c_LC4)
+- [Découvrons F# by Timothée Baud](https://www.youtube.com/watch?v=d5lQzclTR6c)
 
 **Lists:**
 
