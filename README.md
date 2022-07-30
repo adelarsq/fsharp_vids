@@ -37,6 +37,7 @@
 - [F# Platform Game series in MonoGame is Resurrected with new F#6 features](https://www.youtube.com/watch?v=upJ3wFXUnkw)
 - [Why Every Day as a Developer Would Be Easier with F# by Urs Enzler](https://www.youtube.com/watch?v=q3Ies_XTo_s)
 - [F# is Awesome - Learn what's new and what you can use it for! by Phillip Carter](https://www.youtube.com/watch?v=oBhkwFFBcxw)
+- [Starting Your F# Journey by Scott Wlaschin](https://www.youtube.com/watch?v=kSfi6kcZrzM)
 
 **Lists:**
 
