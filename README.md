@@ -38,6 +38,7 @@
 - [Why Every Day as a Developer Would Be Easier with F# by Urs Enzler](https://www.youtube.com/watch?v=q3Ies_XTo_s)
 - [F# is Awesome - Learn what's new and what you can use it for! by Phillip Carter](https://www.youtube.com/watch?v=oBhkwFFBcxw)
 - [Starting Your F# Journey by Scott Wlaschin](https://www.youtube.com/watch?v=kSfi6kcZrzM)
+- [Working with GraphQL services from F# by Zaid Ajaj - NDC Oslo 2021](https://www.youtube.com/watch?v=ddbl2sscPkc)
 
 **Lists:**
 
