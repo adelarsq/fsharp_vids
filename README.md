@@ -9,6 +9,8 @@
 - [Fun Fan Fsharp](https://www.youtube.com/channel/UCzfhtizGZluixyun60wPnuA)
 - [Developer Videos](https://www.youtube.com/channel/UCK4VZUWy1jPwMijeAeyzUcg)
 - [7sharp9](https://www.youtube.com/c/7sharp9b5)
+- [Zaid Ajaj](https://www.youtube.com/channel/UChT-c1jBnyKCltsw0cNifLA) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/zaid_ajaj.svg?style=social&label=)](https://twitter.com/zaid_ajaj)
+
 
 ## 2022
 
