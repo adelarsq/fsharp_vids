@@ -1,5 +1,7 @@
 # Videos about F# 🔷🎞️
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/adelarsq.svg?style=social&label=Follow%20%40adelarsq)](https://twitter.com/adelarsq)
+
 ## Channels
 
 - [dotNET](https://www.youtube.com/c/dotNET)
