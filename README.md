@@ -7,7 +7,7 @@
 - [dotNET](https://www.youtube.com/c/dotNET)
 - [F# Software Foundation](https://www.youtube.com/c/fsharporg)
 - [Fast F#](https://www.youtube.com/user/Wallhoode)
-- [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A)
+- [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/GobeilBen.svg?style=social&label=)](https://twitter.com/GobeilBen)
 - [Fun Fan Fsharp](https://www.youtube.com/channel/UCzfhtizGZluixyun60wPnuA)
 - [Developer Videos](https://www.youtube.com/channel/UCK4VZUWy1jPwMijeAeyzUcg)
 - [7sharp9](https://www.youtube.com/c/7sharp9b5) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/7sharp9_.svg?style=social&label=)](https://twitter.com/7sharp9_)
