@@ -20,13 +20,19 @@
 - [Beyond: Crossing the Platform Boundaries with F# & Fable by Alfonso Garcia-Caro #FnConf 2022](https://www.youtube.com/watch?v=OuAsNZAuh1M)
 - [Functional Patterns in FSharp](https://www.youtube.com/watch?v=XiG-uuNKzF8)
 - [Leveraging Redis Cache from F#](https://www.youtube.com/watch?v=20x1ydMIvYA)
-- [Using Unity With F#](https://www.youtube.com/watch?v=sK6BUkQE5U4)
 - [Types and Measures by Kevin Feasel](https://www.youtube.com/watch?v=Op1IXeg73Wk)
 - [Programación en F#](https://www.youtube.com/watch?v=lE2Hcuw4L1c)
 - [Why F# Works in the Enterprise](https://www.youtube.com/watch?v=CHrYC3c_LC4)
 - [Découvrons F# by Timothée Baud](https://www.youtube.com/watch?v=d5lQzclTR6c)
+- [Find the shortest route Kata in F# by Ian Russell](https://www.youtube.com/watch?v=Qs60WMXird8)
 
 **Lists:**
+
+- **Using Unity with F#:**
+  - [Using Unity With F# by Dave Thomas](https://www.youtube.com/watch?v=sK6BUkQE5U4)
+  - [3D character control with F# and Unity - movement, collisions and animation by Dave Thomas](https://www.youtube.com/watch?v=wulPBZDxczo)
+
+**YouTube Lists:**
 
 - [Fast F#: Topological Sort](https://www.youtube.com/watch?v=B2XOxXAQuF8&list=PLqWncHdBPoD5hEK31CcfmTHP-7icw2Xd0)
 - [Real World F# Web App](https://www.youtube.com/watch?v=NuAzX_6flsI&list=PLjfDSHUGSwod1k162Ha4ZTlBStlBtg7N-)
