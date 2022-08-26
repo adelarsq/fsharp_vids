@@ -49,6 +49,7 @@
 - [F# is Awesome - Learn what's new and what you can use it for! by Phillip Carter](https://www.youtube.com/watch?v=oBhkwFFBcxw)
 - [Starting Your F# Journey by Scott Wlaschin](https://www.youtube.com/watch?v=kSfi6kcZrzM)
 - [Working with GraphQL services from F# by Zaid Ajaj - NDC Oslo 2021](https://www.youtube.com/watch?v=ddbl2sscPkc)
+- [Why I'm Using Falco Instead Of Saturn by Ben Gobeil](https://www.youtube.com/watch?v=DTy5gIUWvpo)
 
 **Lists:**
 
