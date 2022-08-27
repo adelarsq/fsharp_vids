@@ -50,6 +50,7 @@
 - [Starting Your F# Journey by Scott Wlaschin](https://www.youtube.com/watch?v=kSfi6kcZrzM)
 - [Working with GraphQL services from F# by Zaid Ajaj - NDC Oslo 2021](https://www.youtube.com/watch?v=ddbl2sscPkc)
 - [Why I'm Using Falco Instead Of Saturn by Ben Gobeil](https://www.youtube.com/watch?v=DTy5gIUWvpo)
+- [Maximum Nesting Depth of the Parenteses with Kotlin, F#, Python and Wolfran](https://www.youtube.com/watch?v=6-mk6OpcUdM)
 
 **Lists:**
 
