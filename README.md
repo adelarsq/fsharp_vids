@@ -12,7 +12,7 @@
 - [Developer Videos](https://www.youtube.com/channel/UCK4VZUWy1jPwMijeAeyzUcg)
 - [7sharp9](https://www.youtube.com/c/7sharp9b5) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/7sharp9_.svg?style=social&label=)](https://twitter.com/7sharp9_)
 - [Zaid Ajaj](https://www.youtube.com/channel/UChT-c1jBnyKCltsw0cNifLA) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/zaid_ajaj.svg?style=social&label=)](https://twitter.com/zaid_ajaj)
-- [nojaf](https://www.youtube.com/user/nojaf)
+- [nojaf](https://www.youtube.com/user/nojaf) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/verdonckflorian.svg?style=social&label=)](https://twitter.com/verdonckflorian)
 
 ## 2022
 
