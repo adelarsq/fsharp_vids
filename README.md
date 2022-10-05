@@ -27,6 +27,7 @@
 - [Découvrons F# by Timothée Baud](https://www.youtube.com/watch?v=d5lQzclTR6c)
 - [Find the shortest route Kata in F# by Ian Russell](https://www.youtube.com/watch?v=Qs60WMXird8)
 - [Introduction to Numerical Analysis with F#](https://www.youtube.com/watch?v=QMSmcpn8nLM)
+- [Numerical Analysis with F#: Calculus Review](https://www.youtube.com/watch?v=gIL5JzpYB8Q)
 
 **Lists:**
 
