@@ -29,6 +29,7 @@
 - [Introduction to Numerical Analysis with F#](https://www.youtube.com/watch?v=QMSmcpn8nLM)
 - [Numerical Analysis with F#: Calculus Review](https://www.youtube.com/watch?v=gIL5JzpYB8Q)
 - [Run F# / .NET in Docker by Hamilton Greene](https://www.youtube.com/watch?v=e-39nyRSl-Q)
+- [Betatalks #66 - The current state of the F# ecosystem](https://www.youtube.com/watch?v=IHoasuxy1C0)
 
 **Lists:**
 
