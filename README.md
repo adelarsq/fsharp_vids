@@ -28,6 +28,7 @@
 - [Find the shortest route Kata in F# by Ian Russell](https://www.youtube.com/watch?v=Qs60WMXird8)
 - [Introduction to Numerical Analysis with F#](https://www.youtube.com/watch?v=QMSmcpn8nLM)
 - [Numerical Analysis with F#: Calculus Review](https://www.youtube.com/watch?v=gIL5JzpYB8Q)
+- [Run F# / .NET in Docker by Hamilton Greene](https://www.youtube.com/watch?v=e-39nyRSl-Q)
 
 **Lists:**
 
