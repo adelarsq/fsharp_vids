@@ -68,6 +68,8 @@
 - [Resumable State Machines - F# Compiler Community Session](https://www.youtube.com/watch?v=GYi3ZMF8Pm0)
 - [Learning F# by Designing Your Own Language by Oleksii Holub](https://www.youtube.com/watch?v=34C_7halqGw)
 - [Learn me some F# compiler by Don Syme - F# Compiler Community Session](https://www.youtube.com/watch?v=-dKf15xSWPY)
+- [How to build an Electron Desktop App with the F#, SAFE Stack and the ElectronNET by Daniel Hardt](https://www.youtube.com/watch?v=90vXK6a8xxA)
+- [How to build a realtime themometer with F#, the SAFE-Stack and a RaspberryPi (GrovePi) by Daniel Hardt](https://www.youtube.com/watch?v=iLfzESKpD4Q)
 
 ## 2019
 
