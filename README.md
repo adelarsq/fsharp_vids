@@ -32,6 +32,7 @@
 - [Betatalks #66 - The current state of the F# ecosystem](https://www.youtube.com/watch?v=IHoasuxy1C0)
 - [Fizz Buzz with F# by Yeray Cabello at Codurance Screenkata](https://www.youtube.com/watch?v=iv3B7Az5rqQ)
 - [F# for Performance-Critical Code by Matthew Crews](https://www.youtube.com/watch?v=NZ5Lwzrdoe8)
+- [Script Godot with F# by Hamilton Greene](https://www.youtube.com/watch?v=LwTdcNYGXM0)
 
 **Lists:**
 
