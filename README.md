@@ -19,6 +19,10 @@
 
 - [How to use Paket & Fake with F#](https://www.youtube.com/watch?v=pLWlkJauKHo)
 
+**YouTube lists:**
+
+- [Intro to F# by Fast F#](https://www.youtube.com/watch?v=1ioGr701c5Q&list=PLqWncHdBPoD4YEWoXQlRj1tiTc96HZxH8)
+
 ## 2022
 
 - [F# - Program argument från kommandoraden och input via tangentbordet](https://www.youtube.com/watch?v=gIEdNgsAlYA)
