@@ -15,6 +15,10 @@
 - [NOJAF - Florian Verdonck](https://www.youtube.com/user/nojaf) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/verdonckflorian.svg?style=social&label=)](https://twitter.com/verdonckflorian)
 - [Artem Pyanykh](https://www.youtube.com/c/ArtemPyanykh) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/artem_pyanykh.svg?style=social&label=)](https://twitter.com/artem_pyanykh)
 
+## 2023
+
+- [How to use Paket & Fake with F#](https://www.youtube.com/watch?v=pLWlkJauKHo)
+
 ## 2022
 
 - [F# - Program argument från kommandoraden och input via tangentbordet](https://www.youtube.com/watch?v=gIEdNgsAlYA)
