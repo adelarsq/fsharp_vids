@@ -14,6 +14,7 @@
 - [Zaid Ajaj](https://www.youtube.com/channel/UChT-c1jBnyKCltsw0cNifLA) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/zaid_ajaj.svg?style=social&label=)](https://twitter.com/zaid_ajaj)
 - [NOJAF - Florian Verdonck](https://www.youtube.com/user/nojaf) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/verdonckflorian.svg?style=social&label=)](https://twitter.com/verdonckflorian)
 - [Artem Pyanykh](https://www.youtube.com/c/ArtemPyanykh) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/artem_pyanykh.svg?style=social&label=)](https://twitter.com/artem_pyanykh)
+- [HAMY LABS](https://www.youtube.com/@HAMYLABS)
 
 ## 2023
 
