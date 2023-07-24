@@ -19,6 +19,7 @@
 
 - [How to use Paket & Fake with F#](https://www.youtube.com/watch?v=pLWlkJauKHo)
 - [Exploratory Data Analysis with F# by Munmun Das](https://www.youtube.com/watch?v=BEDD1ZQyLOE)
+- [The State of F# - 2023](https://www.youtube.com/watch?v=6HA3jTeDZT4)
 
 **YouTube lists:**
 
